@@ -1,0 +1,24 @@
+# Claude Code context file (local/demo use only, not for the repo)
+CLAUDE.md
+
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.mlappinstall
+*.mltbx
+*.p
+
+# Simulink
+slprj/
+*.slxc
+*.autosave
+sccprj/
+codegen/
+
+# Published/generated output
+html/
+
+# OS junk
+.DS_Store
+Thumbs.db
